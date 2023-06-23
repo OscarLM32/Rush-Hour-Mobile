@@ -1,0 +1,6 @@
+<map id="ShootingEnemy.Shoot" name="ShootingEnemy.Shoot">
+<area shape="rect" id="node1" title="Shoots a projectile of the enemy&#39;s specified type retrieved from the projectile pool." alt="" coords="261,55,413,80"/>
+<area shape="rect" id="node2" href="$class_bee_behaviour.html#adaaa1ae5282a7849d7ed4bc7a11cdd55" title="Attack behaviour of each shooting enemy." alt="" coords="10,5,209,31"/>
+<area shape="rect" id="node3" href="$class_plant_behaviour.html#a28b0ec65c11052c336c594309ce7214f" title="Attacking behaviour. After some time waiting to synchronize the animation with the attack,..." alt="" coords="6,55,213,80"/>
+<area shape="rect" id="node4" href="$class_trunk_behaviour.html#aaba2afa38c0aa91fd390a0844f35e2e1" title="Attack behaviour of each shooting enemy." alt="" coords="5,104,213,129"/>
+</map>

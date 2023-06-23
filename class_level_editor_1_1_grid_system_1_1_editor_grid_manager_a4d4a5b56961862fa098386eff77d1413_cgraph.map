@@ -1,0 +1,4 @@
+<map id="LevelEditor.GridSystem.EditorGridManager.SetInitialExitPosition" name="LevelEditor.GridSystem.EditorGridManager.SetInitialExitPosition">
+<area shape="rect" id="node1" title=" " alt="" coords="5,5,225,45"/>
+<area shape="rect" id="node2" href="$class_grid_manager.html#aa92e7d03f55bde48e21fba940646b17c" title="Snaps a coordinate to a grid cell." alt="" coords="273,5,489,45"/>
+</map>

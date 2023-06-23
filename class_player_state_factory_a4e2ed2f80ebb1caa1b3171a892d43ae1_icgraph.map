@@ -1,0 +1,9 @@
+<map id="PlayerStateFactory.Grounded" name="PlayerStateFactory.Grounded">
+<area shape="rect" id="node1" title=" " alt="" coords="479,77,673,102"/>
+<area shape="rect" id="node2" href="$class_player_fall_state.html#a8c149d72bf0c57d3535b0d091f08a8dc" title="Checks if the states should be switched and in that case it switches them." alt="" coords="240,5,431,45"/>
+<area shape="rect" id="node4" href="$class_player_jumping_state.html#ac63c9f14d09f70477170b271e125b6f1" title="Checks if the states should be switched and in that case it switches them." alt="" coords="246,69,425,109"/>
+<area shape="rect" id="node6" href="$class_player_vertical_dashing_state.html#adb5b4403c7854262baaccdda7044783a" title="Checks if the states should be switched and in that case it switches them." alt="" coords="243,133,428,173"/>
+<area shape="rect" id="node3" href="$class_player_fall_state.html#a9079d7b4059d6381bfb1d4e876065c2e" title="Update state is called once per frame while the state is active." alt="" coords="5,13,192,38"/>
+<area shape="rect" id="node5" href="$class_player_jumping_state.html#a70c3add0a46db8da9473cbe6fbb0ab3c" title="Update state is called once per frame while the state is active." alt="" coords="7,69,190,109"/>
+<area shape="rect" id="node7" href="$class_player_vertical_dashing_state.html#ad05a0949695ff6ccd8a3265d0d7666a6" title="Update state is called once per frame while the state is active." alt="" coords="6,133,191,173"/>
+</map>

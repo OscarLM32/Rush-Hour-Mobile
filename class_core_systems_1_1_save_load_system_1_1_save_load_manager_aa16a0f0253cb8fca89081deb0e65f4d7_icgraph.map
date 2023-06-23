@@ -1,0 +1,4 @@
+<map id="CoreSystems.SaveLoadSystem.SaveLoadManager.AddPickedClassifiedDocument" name="CoreSystems.SaveLoadSystem.SaveLoadManager.AddPickedClassifiedDocument">
+<area shape="rect" id="node1" title="Add picked classified documents to the temporal data and set the temporal bitmap properly." alt="" coords="231,5,481,60"/>
+<area shape="rect" id="node2" href="$class_items_1_1_classified_document.html#ab359bd664b3b728e37efd0670210c8c8" title="Hides the method PickUp by IPickable and turn it into an abstract method." alt="" coords="5,13,183,53"/>
+</map>

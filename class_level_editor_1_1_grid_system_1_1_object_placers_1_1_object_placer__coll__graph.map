@@ -1,0 +1,5 @@
+<map id="LevelEditor.GridSystem.ObjectPlacers.ObjectPlacer" name="LevelEditor.GridSystem.ObjectPlacers.ObjectPlacer">
+<area shape="rect" id="node1" title="Abstract class that defines the structure of the placers that handle the logic behind placing and mov..." alt="" coords="19,183,219,223"/>
+<area shape="rect" id="node2" href="$class_level_editor_1_1_grid_system_1_1_editor_grid_manager.html" title="Gris manager of the level editing." alt="" coords="21,80,217,120"/>
+<area shape="rect" id="node3" href="$class_grid_manager.html" title=" " alt="" coords="5,5,233,31"/>
+</map>

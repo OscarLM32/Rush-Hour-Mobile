@@ -1,0 +1,6 @@
+<map id="CoreSystems.MenuSystem.TestMenuSystem" name="CoreSystems.MenuSystem.TestMenuSystem">
+<area shape="rect" id="node1" title="Testing class for the menu system." alt="" coords="5,271,216,311"/>
+<area shape="rect" id="node2" title=" " alt="" coords="85,5,195,31"/>
+<area shape="rect" id="node3" href="$class_core_systems_1_1_menu_system_1_1_page_controller.html" title="Handles the pages in the scene." alt="" coords="127,168,343,208"/>
+<area shape="rect" id="node4" href="$class_core_systems_1_1_menu_system_1_1_page.html" title="Represents the pages the PageController in going to be making use of." alt="" coords="177,80,393,105"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="LevelEditor.VehicleCreator.VehicleCreator" name="LevelEditor.VehicleCreator.VehicleCreator">
+<area shape="rect" id="node1" title="A specific creator of vehicle." alt="" coords="5,79,184,119"/>
+<area shape="rect" id="node2" title=" " alt="" coords="39,5,150,31"/>
+</map>

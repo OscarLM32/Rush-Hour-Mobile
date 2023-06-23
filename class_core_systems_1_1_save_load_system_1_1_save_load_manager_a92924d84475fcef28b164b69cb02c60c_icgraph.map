@@ -1,0 +1,4 @@
+<map id="CoreSystems.SaveLoadSystem.SaveLoadManager.GetClassifiedDocuments" name="CoreSystems.SaveLoadSystem.SaveLoadManager.GetClassifiedDocuments">
+<area shape="rect" id="node1" title="Get the classified documents stored in the game data." alt="" coords="260,5,535,45"/>
+<area shape="rect" id="node2" href="$class_main_menu_1_1_extras_1_1_extra.html#ab983349efbef464914c6b57588945226" title="Handles the display of the missing &quot;points&quot; to unlock this extra." alt="" coords="5,5,212,45"/>
+</map>

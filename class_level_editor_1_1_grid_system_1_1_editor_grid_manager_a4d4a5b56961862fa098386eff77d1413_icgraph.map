@@ -1,0 +1,4 @@
+<map id="LevelEditor.GridSystem.EditorGridManager.SetInitialExitPosition" name="LevelEditor.GridSystem.EditorGridManager.SetInitialExitPosition">
+<area shape="rect" id="node1" title=" " alt="" coords="260,5,480,45"/>
+<area shape="rect" id="node2" href="$class_level_editor_1_1_level_editor_manager.html#ac54244030ab0f08556f9bbb5adc846a0" title="Sets the size of the grids." alt="" coords="5,5,212,45"/>
+</map>

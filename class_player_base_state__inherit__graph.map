@@ -1,0 +1,7 @@
+<map id="PlayerBaseState" name="PlayerBaseState">
+<area shape="rect" id="node1" title="Abstract class defining the basic behaviour of any state part of the PlayerStateMachine." alt="" coords="226,5,346,31"/>
+<area shape="rect" id="node2" href="$class_player_fall_state.html" title="State that handles the logic of the player when it is falling." alt="" coords="5,79,116,104"/>
+<area shape="rect" id="node3" href="$class_player_ground_state.html" title="State that handles the logic of the player when it is grounded." alt="" coords="140,79,272,104"/>
+<area shape="rect" id="node4" href="$class_player_jumping_state.html" title="State that handles the logic of the player when it is jumping." alt="" coords="297,79,435,104"/>
+<area shape="rect" id="node5" href="$class_player_vertical_dashing_state.html" title="State that handles the logic of the player when it is vertically dashing." alt="" coords="459,79,641,104"/>
+</map>

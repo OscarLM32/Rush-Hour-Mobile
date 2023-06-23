@@ -1,0 +1,4 @@
+<map id="LevelEditor.GridSystem.ObjectPlacers.ObjectPlacer.TakeObject" name="LevelEditor.GridSystem.ObjectPlacers.ObjectPlacer.TakeObject">
+<area shape="rect" id="node1" title="Takes a placed object from the grid." alt="" coords="249,5,464,45"/>
+<area shape="rect" id="node2" href="$class_level_editor_1_1_grid_system_1_1_editor_grid_manager.html#ae48485346ddb40e30ef5c6058d40de88" title=" " alt="" coords="5,5,201,45"/>
+</map>

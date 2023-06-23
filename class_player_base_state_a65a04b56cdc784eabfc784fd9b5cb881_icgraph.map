@@ -1,0 +1,12 @@
+<map id="PlayerBaseState.ExitState" name="PlayerBaseState.ExitState">
+<area shape="rect" id="node1" title="Exit state is called once when the state is going to be switched." alt="" coords="743,109,921,134"/>
+<area shape="rect" id="node2" href="$class_player_base_state.html#ac1e5506d31ad29b3da4a689dcce08fc9" title="Switches the current state with a new state." alt="" coords="500,109,695,134"/>
+<area shape="rect" id="node3" href="$class_player_fall_state.html#a8c149d72bf0c57d3535b0d091f08a8dc" title="Checks if the states should be switched and in that case it switches them." alt="" coords="251,5,441,45"/>
+<area shape="rect" id="node5" href="$class_player_ground_state.html#a899f0b249af9a2481f5523731aff832c" title="Checks if the states should be switched and in that case it switches them." alt="" coords="240,69,452,109"/>
+<area shape="rect" id="node7" href="$class_player_jumping_state.html#ac63c9f14d09f70477170b271e125b6f1" title="Checks if the states should be switched and in that case it switches them." alt="" coords="257,133,435,173"/>
+<area shape="rect" id="node9" href="$class_player_vertical_dashing_state.html#adb5b4403c7854262baaccdda7044783a" title="Checks if the states should be switched and in that case it switches them." alt="" coords="253,197,439,237"/>
+<area shape="rect" id="node4" href="$class_player_fall_state.html#a9079d7b4059d6381bfb1d4e876065c2e" title="Update state is called once per frame while the state is active." alt="" coords="5,13,192,38"/>
+<area shape="rect" id="node6" href="$class_player_ground_state.html#a99bb384dfb2198aae13a5745110485f2" title="Update state is called once per frame while the state is active." alt="" coords="10,69,187,109"/>
+<area shape="rect" id="node8" href="$class_player_jumping_state.html#a70c3add0a46db8da9473cbe6fbb0ab3c" title="Update state is called once per frame while the state is active." alt="" coords="7,133,190,173"/>
+<area shape="rect" id="node10" href="$class_player_vertical_dashing_state.html#ad05a0949695ff6ccd8a3265d0d7666a6" title="Update state is called once per frame while the state is active." alt="" coords="6,197,191,237"/>
+</map>

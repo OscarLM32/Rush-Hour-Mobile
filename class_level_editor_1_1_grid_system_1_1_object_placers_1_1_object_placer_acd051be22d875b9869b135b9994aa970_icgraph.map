@@ -1,0 +1,6 @@
+<map id="LevelEditor.GridSystem.ObjectPlacers.ObjectPlacer.TakeArea" name="LevelEditor.GridSystem.ObjectPlacers.ObjectPlacer.TakeArea">
+<area shape="rect" id="node1" title=" " alt="" coords="527,37,731,77"/>
+<area shape="rect" id="node2" href="$class_level_editor_1_1_grid_system_1_1_object_placers_1_1_exit_placer.html#af5ae7ee465c6347dcc838e0f0fc72fe1" title=" " alt="" coords="5,5,205,45"/>
+<area shape="rect" id="node3" href="$class_level_editor_1_1_grid_system_1_1_object_placers_1_1_vehicle_placer.html#a1a4a615c5195e7d6e392f53a0fc1193c" title=" " alt="" coords="5,69,205,109"/>
+<area shape="rect" id="node4" href="$class_level_editor_1_1_grid_system_1_1_object_placers_1_1_object_placer.html#a8e8cbd7c5c5e3af7dd521b7574b1840a" title="Returns an object to the position it was taken from if it cannot be placed back." alt="" coords="253,30,479,85"/>
+</map>

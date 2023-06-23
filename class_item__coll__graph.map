@@ -1,0 +1,6 @@
+<map id="Item" name="Item">
+<area shape="rect" id="node1" title="General class that contains the behaviour of every item to be found in the game." alt="" coords="59,168,105,193"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,80,116,105"/>
+<area shape="rect" id="node3" href="$class_item_s_o.html" title="Scriptable object that contains the necessary information to represent one item from the game." alt="" coords="141,80,207,105"/>
+<area shape="rect" id="node4" title=" " alt="" coords="115,5,233,31"/>
+</map>

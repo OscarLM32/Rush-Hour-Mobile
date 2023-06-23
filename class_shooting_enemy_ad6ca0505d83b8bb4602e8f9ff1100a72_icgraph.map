@@ -1,0 +1,4 @@
+<map id="ShootingEnemy.AttackBehaviour" name="ShootingEnemy.AttackBehaviour">
+<area shape="rect" id="node1" title="Attack behaviour of each shooting enemy." alt="" coords="212,5,424,31"/>
+<area shape="rect" id="node2" href="$class_shooting_enemy.html#a1e6e1f0e6afd1149aecb8465acb11178" title=" " alt="" coords="5,5,164,31"/>
+</map>

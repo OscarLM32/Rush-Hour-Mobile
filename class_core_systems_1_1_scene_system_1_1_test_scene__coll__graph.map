@@ -1,0 +1,5 @@
+<map id="CoreSystems.SceneSystem.TestScene" name="CoreSystems.SceneSystem.TestScene">
+<area shape="rect" id="node1" title="A test class for testing the scene controller." alt="" coords="5,183,196,223"/>
+<area shape="rect" id="node2" title=" " alt="" coords="40,5,151,31"/>
+<area shape="rect" id="node3" href="$class_core_systems_1_1_scene_system_1_1_scene_controller.html" title="Handles the logic behind switching scenes." alt="" coords="117,80,308,120"/>
+</map>

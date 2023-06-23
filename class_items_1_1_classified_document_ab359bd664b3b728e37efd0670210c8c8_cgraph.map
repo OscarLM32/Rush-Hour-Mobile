@@ -1,0 +1,5 @@
+<map id="Items.ClassifiedDocument.PickUp" name="Items.ClassifiedDocument.PickUp">
+<area shape="rect" id="node1" title="Hides the method PickUp by IPickable and turn it into an abstract method." alt="" coords="5,45,183,85"/>
+<area shape="rect" id="node2" href="$class_core_systems_1_1_save_load_system_1_1_save_load_manager.html#aa16a0f0253cb8fca89081deb0e65f4d7" title="Add picked classified documents to the temporal data and set the temporal bitmap properly." alt="" coords="231,5,481,60"/>
+<area shape="rect" id="node3" href="$class_items_1_1_currency.html#a0e5b2750b55f4801c8f7b060806b3dbb" title="The action to be performed whenever the currency is picked up." alt="" coords="259,84,453,109"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="PlantBehaviour.AttackBehaviour" name="PlantBehaviour.AttackBehaviour">
+<area shape="rect" id="node1" title="Attacking behaviour. After some time waiting to synchronize the animation with the attack,..." alt="" coords="5,5,212,31"/>
+<area shape="rect" id="node2" href="$class_shooting_enemy.html#a0bc904fab9b5d19a07707cc85797d03b" title="Shoots a projectile of the enemy&#39;s specified type retrieved from the projectile pool." alt="" coords="260,5,412,31"/>
+<area shape="rect" id="node3" href="$class_enemy_projectile_pool.html#a30262bacc545b0635222de747301a0ce" title="Get an instance of one of the projectiles in the pool. If all the objects are in use it creates a new..." alt="" coords="460,5,683,31"/>
+</map>

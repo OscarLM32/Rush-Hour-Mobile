@@ -1,0 +1,4 @@
+<map id="PlayerJumpingState.HandleGravity" name="PlayerJumpingState.HandleGravity">
+<area shape="rect" id="node1" title="Handles the gravity by the specifics of the state." alt="" coords="227,5,409,45"/>
+<area shape="rect" id="node2" href="$class_player_jumping_state.html#af411ff02a45f1ede54104596113960cf" title="Enter state is called once when the state is first accessed." alt="" coords="5,5,179,45"/>
+</map>

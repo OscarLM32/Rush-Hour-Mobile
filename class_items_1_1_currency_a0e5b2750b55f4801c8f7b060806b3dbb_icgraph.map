@@ -1,0 +1,5 @@
+<map id="Items.Currency.PickUpAction" name="Items.Currency.PickUpAction">
+<area shape="rect" id="node1" title="The action to be performed whenever the currency is picked up." alt="" coords="231,42,424,67"/>
+<area shape="rect" id="node2" href="$class_items_1_1_classified_document.html#ab359bd664b3b728e37efd0670210c8c8" title="Hides the method PickUp by IPickable and turn it into an abstract method." alt="" coords="5,5,183,45"/>
+<area shape="rect" id="node3" href="$class_items_1_1_information.html#a6c919be73a7da9a73156a43cc12763d2" title="Hides the method PickUp by IPickable and turn it into an abstract method." alt="" coords="11,70,177,95"/>
+</map>

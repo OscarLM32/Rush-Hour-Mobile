@@ -1,0 +1,4 @@
+<map id="EnemyBasicPatrolling" name="EnemyBasicPatrolling">
+<area shape="rect" id="node1" title="Enemy patrol script using DOTween meant to be used for simple patrolling shapes: no rotation,..." alt="" coords="5,79,156,104"/>
+<area shape="rect" id="node2" title=" " alt="" coords="25,5,136,31"/>
+</map>

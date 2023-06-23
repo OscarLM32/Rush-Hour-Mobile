@@ -1,0 +1,4 @@
+<map id="PlayerVerticalDashingState.CheckSwitchStates" name="PlayerVerticalDashingState.CheckSwitchStates">
+<area shape="rect" id="node1" title="Checks if the states should be switched and in that case it switches them." alt="" coords="239,5,424,45"/>
+<area shape="rect" id="node2" href="$class_player_vertical_dashing_state.html#ad05a0949695ff6ccd8a3265d0d7666a6" title="Update state is called once per frame while the state is active." alt="" coords="5,5,191,45"/>
+</map>

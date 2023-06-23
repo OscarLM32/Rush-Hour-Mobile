@@ -1,0 +1,6 @@
+<map id="LevelEditor.DefaultLevelEditorManager" name="LevelEditor.DefaultLevelEditorManager">
+<area shape="rect" id="node1" title="Handles the logic of the game when building default levels." alt="" coords="84,183,243,223"/>
+<area shape="rect" id="node2" href="$class_core_systems_1_1_singleton_scene.html" title=" " alt="" coords="5,80,193,120"/>
+<area shape="rect" id="node3" href="$class_level_editor_1_1_grid_system_1_1_editor_grid_manager.html" title="Gris manager of the level editing." alt="" coords="217,80,413,120"/>
+<area shape="rect" id="node4" href="$class_grid_manager.html" title=" " alt="" coords="201,5,429,31"/>
+</map>

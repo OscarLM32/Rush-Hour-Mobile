@@ -1,0 +1,4 @@
+<map id="CoreSystems.SaveLoadSystem.SaveLoadManager.UpgradeBought" name="CoreSystems.SaveLoadSystem.SaveLoadManager.UpgradeBought">
+<area shape="rect" id="node1" title="Sets the data after buying an upgrade from the game store." alt="" coords="281,5,503,45"/>
+<area shape="rect" id="node2" href="$class_main_menu_1_1_shop_1_1_upgrade_presenter.html#ab905c3599ea3eb0592b5daf4bfcd51c2" title="Logic to be executed when the buy button is pressed." alt="" coords="5,5,233,45"/>
+</map>

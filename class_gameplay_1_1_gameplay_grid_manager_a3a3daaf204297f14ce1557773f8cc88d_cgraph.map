@@ -1,0 +1,4 @@
+<map id="Gameplay.GameplayGridManager.CheckMoveVehicle" name="Gameplay.GameplayGridManager.CheckMoveVehicle">
+<area shape="rect" id="node1" title="Check if a vehicle can be moved and moves it in case it can be done." alt="" coords="5,5,228,45"/>
+<area shape="rect" id="node2" href="$class_gameplay_1_1_vehicle.html#a9651066558b3ee6dfce65a4dbe39f0a9" title="Returns the position the vehicle is going to end up in if following the input." alt="" coords="276,5,457,45"/>
+</map>

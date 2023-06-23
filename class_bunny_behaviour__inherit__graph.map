@@ -1,0 +1,5 @@
+<map id="BunnyBehaviour" name="BunnyBehaviour">
+<area shape="rect" id="node1" title="Behaviour of the &quot;Bunny&quot; enemy." alt="" coords="59,79,174,104"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,5,116,31"/>
+<area shape="rect" id="node3" href="$interface_i_killable.html" title="Interface to be implemented for each element in the game that can be killed." alt="" coords="141,5,207,31"/>
+</map>

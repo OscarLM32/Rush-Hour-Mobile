@@ -1,0 +1,6 @@
+<map id="BeeBehaviour" name="BeeBehaviour">
+<area shape="rect" id="node1" title="Sets the behaviour of the &quot;Bee&quot; enemy." alt="" coords="69,152,171,177"/>
+<area shape="rect" id="node2" href="$class_shooting_enemy.html" title="Base class for all the shooter enemies and hazards." alt="" coords="5,79,120,104"/>
+<area shape="rect" id="node3" title=" " alt="" coords="7,5,118,31"/>
+<area shape="rect" id="node4" href="$interface_i_killable.html" title="Interface to be implemented for each element in the game that can be killed." alt="" coords="144,79,211,104"/>
+</map>

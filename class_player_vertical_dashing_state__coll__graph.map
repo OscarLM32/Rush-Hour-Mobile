@@ -1,0 +1,8 @@
+<map id="PlayerVerticalDashingState" name="PlayerVerticalDashingState">
+<area shape="rect" id="node1" title="State that handles the logic of the player when it is vertically dashing." alt="" coords="65,331,247,356"/>
+<area shape="rect" id="node2" href="$class_player_base_state.html" title="Abstract class defining the basic behaviour of any state part of the PlayerStateMachine." alt="" coords="96,256,216,281"/>
+<area shape="rect" id="node3" href="$class_player_state_machine.html" title="State machine of the player that handles all the logic behind the character&#39;s movement." alt="" coords="5,168,144,193"/>
+<area shape="rect" id="node4" title=" " alt="" coords="14,5,125,31"/>
+<area shape="rect" id="node5" href="$class_player_weapon.html" title="Controls the behaviour of the weapon the player uses." alt="" coords="91,80,197,105"/>
+<area shape="rect" id="node6" href="$class_player_state_factory.html" title="Factory pattern of the different states in the PlayerStateMachine." alt="" coords="169,168,303,193"/>
+</map>

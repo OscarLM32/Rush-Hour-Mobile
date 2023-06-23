@@ -1,0 +1,6 @@
+<map id="Items.IPickable" name="Items.IPickable">
+<area shape="rect" id="node1" title="Class that every pickable object in the level extends from." alt="" coords="122,5,233,31"/>
+<area shape="rect" id="node2" href="$class_items_1_1_currency.html" title="Defines the behaviour of any type of currency pickable during a level." alt="" coords="122,79,233,104"/>
+<area shape="rect" id="node3" href="$class_items_1_1_classified_document.html" title="Specific class defining the behaviour of the type of currency classified documents." alt="" coords="5,152,179,177"/>
+<area shape="rect" id="node4" href="$class_items_1_1_information.html" title="Specific class defining the behaviour of the currency type: information." alt="" coords="203,152,325,177"/>
+</map>

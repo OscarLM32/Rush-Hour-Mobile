@@ -1,0 +1,4 @@
+<map id="SoundPlayer" name="SoundPlayer">
+<area shape="rect" id="node1" title="Handles the logic behind setting up the audio sources and playing the audios tracks of any GameObject..." alt="" coords="13,79,109,104"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,5,116,31"/>
+</map>

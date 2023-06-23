@@ -1,0 +1,6 @@
+<map id="LevelEditor.VehicleCreator.VehicleCreator" name="LevelEditor.VehicleCreator.VehicleCreator">
+<area shape="rect" id="node1" title="A specific creator of vehicle." alt="" coords="5,183,184,223"/>
+<area shape="rect" id="node2" title=" " alt="" coords="18,87,129,113"/>
+<area shape="rect" id="node3" href="$class_level_editor_1_1_vehicle_creator_1_1_s_o_vehicle_designs.html" title="A list of sprites for a vehicle." alt="" coords="153,80,332,120"/>
+<area shape="rect" id="node4" title=" " alt="" coords="183,5,302,31"/>
+</map>

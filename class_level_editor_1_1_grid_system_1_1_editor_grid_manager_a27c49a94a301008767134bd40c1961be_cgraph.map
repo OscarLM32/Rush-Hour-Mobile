@@ -1,0 +1,5 @@
+<map id="LevelEditor.GridSystem.EditorGridManager.Place" name="LevelEditor.GridSystem.EditorGridManager.Place">
+<area shape="rect" id="node1" title=" " alt="" coords="5,49,201,89"/>
+<area shape="rect" id="node2" href="$class_level_editor_1_1_grid_system_1_1_object_placers_1_1_object_placer_factory.html#af7e42285fe050806498b20d4912feacd" title=" " alt="" coords="249,5,480,60"/>
+<area shape="rect" id="node3" href="$class_level_editor_1_1_grid_system_1_1_object_placers_1_1_object_placer.html#aa4103246c76d16bf087b146d5f216ccd" title=" " alt="" coords="265,85,465,125"/>
+</map>

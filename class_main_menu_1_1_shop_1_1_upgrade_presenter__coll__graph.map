@@ -1,0 +1,6 @@
+<map id="MainMenu.Shop.UpgradePresenter" name="MainMenu.Shop.UpgradePresenter">
+<area shape="rect" id="node1" title="Presenter of the PMV for one upgrade in the shop." alt="" coords="5,168,229,193"/>
+<area shape="rect" id="node2" title=" " alt="" coords="41,80,151,105"/>
+<area shape="rect" id="node3" href="$class_main_menu_1_1_shop_1_1_s_o_upgrade_prices.html" title="Scriptable object containing the the prices of an specific upgrade." alt="" coords="176,80,400,105"/>
+<area shape="rect" id="node4" title=" " alt="" coords="229,5,347,31"/>
+</map>

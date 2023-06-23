@@ -1,0 +1,6 @@
+<map id="Menus.MainMenu.MainMenu" name="Menus.MainMenu.MainMenu">
+<area shape="rect" id="node1" title="Logic of the main menu." alt="" coords="25,183,214,208"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,87,116,113"/>
+<area shape="rect" id="node3" href="$class_scriptable_objects_1_1_game_balancing_1_1_s_o_difficulty_unlock_score.html" title="The score needed to unlock a difficulty." alt="" coords="140,80,365,120"/>
+<area shape="rect" id="node4" title=" " alt="" coords="193,5,312,31"/>
+</map>

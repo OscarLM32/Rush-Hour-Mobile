@@ -1,0 +1,4 @@
+<map id="LevelEditor.GridSystem.ObjectPlacers.VehiclePlacer" name="LevelEditor.GridSystem.ObjectPlacers.VehiclePlacer">
+<area shape="rect" id="node1" title="Specific placer class of the vehicles." alt="" coords="5,79,205,119"/>
+<area shape="rect" id="node2" href="$class_level_editor_1_1_grid_system_1_1_object_placers_1_1_object_placer.html" title="Abstract class that defines the structure of the placers that handle the logic behind placing and mov..." alt="" coords="57,5,154,31"/>
+</map>

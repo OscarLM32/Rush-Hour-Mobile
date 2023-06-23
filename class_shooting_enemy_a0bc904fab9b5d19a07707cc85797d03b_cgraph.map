@@ -1,0 +1,4 @@
+<map id="ShootingEnemy.Shoot" name="ShootingEnemy.Shoot">
+<area shape="rect" id="node1" title="Shoots a projectile of the enemy&#39;s specified type retrieved from the projectile pool." alt="" coords="5,5,157,31"/>
+<area shape="rect" id="node2" href="$class_enemy_projectile_pool.html#a30262bacc545b0635222de747301a0ce" title="Get an instance of one of the projectiles in the pool. If all the objects are in use it creates a new..." alt="" coords="205,5,428,31"/>
+</map>

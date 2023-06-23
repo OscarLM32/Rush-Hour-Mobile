@@ -1,0 +1,4 @@
+<map id="Gameplay.UserLevelGameManager.ReturnToMainMenu" name="Gameplay.UserLevelGameManager.ReturnToMainMenu">
+<area shape="rect" id="node1" title="Returns to main menu." alt="" coords="5,5,236,45"/>
+<area shape="rect" id="node2" href="$class_core_systems_1_1_scene_system_1_1_scene_controller.html#aac9adbbcb7fbe7f2b4d410197d487b2c" title="Sets up the necessary values to load a scene." alt="" coords="284,5,475,45"/>
+</map>

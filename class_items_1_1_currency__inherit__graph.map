@@ -1,0 +1,7 @@
+<map id="Items.Currency" name="Items.Currency">
+<area shape="rect" id="node1" title="Defines the behaviour of any type of currency pickable during a level." alt="" coords="122,79,233,104"/>
+<area shape="rect" id="node4" href="$class_items_1_1_classified_document.html" title="Specific class defining the behaviour of the type of currency classified documents." alt="" coords="5,152,179,177"/>
+<area shape="rect" id="node5" href="$class_items_1_1_information.html" title="Specific class defining the behaviour of the currency type: information." alt="" coords="203,152,325,177"/>
+<area shape="rect" id="node2" title=" " alt="" coords="63,5,174,31"/>
+<area shape="rect" id="node3" href="$interface_items_1_1_i_pickable.html" title="Class that every pickable object in the level extends from." alt="" coords="199,5,273,31"/>
+</map>

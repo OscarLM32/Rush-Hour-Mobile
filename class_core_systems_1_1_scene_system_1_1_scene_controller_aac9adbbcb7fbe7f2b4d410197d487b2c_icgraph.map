@@ -1,0 +1,9 @@
+<map id="CoreSystems.SceneSystem.SceneController.Load" name="CoreSystems.SceneSystem.SceneController.Load">
+<area shape="rect" id="node1" title="Sets up the necessary values to load a scene." alt="" coords="284,165,475,205"/>
+<area shape="rect" id="node2" href="$class_menus_1_1_main_menu_1_1_main_menu.html#adfc48c8d62a583fb7cc54e5fa8ee8e28" title="Loads the scene to play user&#45;made levels." alt="" coords="24,5,217,45"/>
+<area shape="rect" id="node3" href="$class_gameplay_1_1_default_level_game_manager.html#ab8e99af25c0fddb4cf3be34763e6f8b1" title="Return to main menu." alt="" coords="26,69,215,109"/>
+<area shape="rect" id="node4" href="$class_gameplay_1_1_user_level_game_manager.html#a826819f2a95bd98d0f979ebdedcb5d25" title="Returns to main menu." alt="" coords="5,133,236,173"/>
+<area shape="rect" id="node5" href="$class_level_editor_1_1_level_editor_manager.html#af8d7029f67da2a098e6dc3f752d6c674" title="Return to the main menu." alt="" coords="17,197,224,237"/>
+<area shape="rect" id="node6" href="$class_menus_1_1_main_menu_1_1_main_menu.html#afc3b573760c300db28e03de83ca974c1" title="selects the level difficulty from the options in the menu" alt="" coords="24,261,217,301"/>
+<area shape="rect" id="node7" href="$class_menus_1_1_main_menu_1_1_main_menu.html#a151d5ff70e68ae8231ff6f4b3ee13c99" title="selects a level size from the options in the meni" alt="" coords="24,325,217,365"/>
+</map>

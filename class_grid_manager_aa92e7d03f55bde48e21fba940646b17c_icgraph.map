@@ -1,0 +1,6 @@
+<map id="GridManager.SnapCoordinateToGrid" name="GridManager.SnapCoordinateToGrid">
+<area shape="rect" id="node1" title="Snaps a coordinate to a grid cell." alt="" coords="515,63,707,103"/>
+<area shape="rect" id="node2" href="$class_level_editor_1_1_grid_system_1_1_object_placers_1_1_exit_placer.html#a3fc5002811eb311d43130815442f3a99" title=" " alt="" coords="253,5,467,45"/>
+<area shape="rect" id="node3" href="$class_level_editor_1_1_grid_system_1_1_object_placers_1_1_exit_placer.html#af5ae7ee465c6347dcc838e0f0fc72fe1" title=" " alt="" coords="5,35,205,75"/>
+<area shape="rect" id="node4" href="$class_level_editor_1_1_grid_system_1_1_object_placers_1_1_vehicle_placer.html#a1a4a615c5195e7d6e392f53a0fc1193c" title=" " alt="" coords="260,120,460,160"/>
+</map>

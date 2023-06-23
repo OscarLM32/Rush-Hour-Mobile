@@ -1,0 +1,7 @@
+<map id="ShootingEnemy" name="ShootingEnemy">
+<area shape="rect" id="node1" title="Base class for all the shooter enemies and hazards." alt="" coords="128,79,243,104"/>
+<area shape="rect" id="node3" href="$class_bee_behaviour.html" title="Sets the behaviour of the &quot;Bee&quot; enemy." alt="" coords="5,152,107,177"/>
+<area shape="rect" id="node4" href="$class_plant_behaviour.html" title="Sets the behaviour of the &quot;Plant&quot; enemy." alt="" coords="131,152,239,177"/>
+<area shape="rect" id="node5" href="$class_trunk_behaviour.html" title="Class handling the behaviour of the Trunk enemy." alt="" coords="263,152,374,177"/>
+<area shape="rect" id="node2" title=" " alt="" coords="130,5,241,31"/>
+</map>

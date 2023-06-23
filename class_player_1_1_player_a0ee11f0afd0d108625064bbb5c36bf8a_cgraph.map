@@ -1,0 +1,5 @@
+<map id="Player.Player.Kill" name="Player.Player.Kill">
+<area shape="rect" id="node1" title="Logic to be executed when the player is killed." alt="" coords="5,45,128,70"/>
+<area shape="rect" id="node2" href="$class_core_systems_1_1_audio_system_1_1_audio_controller.html#a699f5e9ca0225350533ec38cf530a9ce" title="Plays the audio given by the audio type." alt="" coords="178,5,365,45"/>
+<area shape="rect" id="node3" href="$class_player_1_1_player_movement.html#a6e04f6327d4b7e5db91efbbed580966e" title="Stops all movements, current one and next one." alt="" coords="176,69,367,109"/>
+</map>

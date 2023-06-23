@@ -1,0 +1,4 @@
+<map id="SaveLoadSystem" name="SaveLoadSystem">
+<area shape="rect" id="node1" title="Handles the logic behind saving and loading the stored data of the game." alt="" coords="5,79,128,104"/>
+<area shape="rect" id="node2" title=" " alt="" coords="11,5,122,31"/>
+</map>

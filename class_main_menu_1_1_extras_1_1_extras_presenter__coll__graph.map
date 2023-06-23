@@ -1,0 +1,6 @@
+<map id="MainMenu.Extras.ExtrasPresenter" name="MainMenu.Extras.ExtrasPresenter">
+<area shape="rect" id="node1" title="Presenter of the PMV for the extras menu." alt="" coords="5,183,228,208"/>
+<area shape="rect" id="node2" title=" " alt="" coords="8,87,119,113"/>
+<area shape="rect" id="node3" href="$class_main_menu_1_1_extras_1_1_s_o_extras_information.html" title="Scriptable object containing the extra content and values of each extra." alt="" coords="143,80,328,120"/>
+<area shape="rect" id="node4" title=" " alt="" coords="176,5,295,31"/>
+</map>

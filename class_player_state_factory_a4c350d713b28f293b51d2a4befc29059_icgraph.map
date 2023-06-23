@@ -1,0 +1,5 @@
+<map id="PlayerStateFactory.Jumping" name="PlayerStateFactory.Jumping">
+<area shape="rect" id="node1" title=" " alt="" coords="491,13,677,38"/>
+<area shape="rect" id="node2" href="$class_player_ground_state.html#a899f0b249af9a2481f5523731aff832c" title="Checks if the states should be switched and in that case it switches them." alt="" coords="231,5,443,45"/>
+<area shape="rect" id="node3" href="$class_player_ground_state.html#a99bb384dfb2198aae13a5745110485f2" title="Update state is called once per frame while the state is active." alt="" coords="5,5,183,45"/>
+</map>

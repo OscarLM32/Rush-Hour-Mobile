@@ -1,0 +1,4 @@
+<map id="StaticEnvironmentalHazard" name="StaticEnvironmentalHazard">
+<area shape="rect" id="node1" title="Class that handles the logic of the static environmental hazards the player can find such as spikes,..." alt="" coords="5,79,184,104"/>
+<area shape="rect" id="node2" title=" " alt="" coords="39,5,150,31"/>
+</map>

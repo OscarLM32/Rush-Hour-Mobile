@@ -1,0 +1,4 @@
+<map id="CoreSystems.MenuSystem.PageController.TurnPageOn" name="CoreSystems.MenuSystem.PageController.TurnPageOn">
+<area shape="rect" id="node1" title="Turn the specified page on (with animation)" alt="" coords="5,5,221,45"/>
+<area shape="rect" id="node2" href="$class_core_systems_1_1_menu_system_1_1_page.html#af21d6d536c293a65c23bf288a302d2c6" title="Handles the petition to turn on or off the page. If the page uses no animation it will simple set the..." alt="" coords="269,5,489,45"/>
+</map>

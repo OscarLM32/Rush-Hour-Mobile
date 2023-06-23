@@ -1,0 +1,4 @@
+<map id="PlayerGroundState" name="PlayerGroundState">
+<area shape="rect" id="node1" title="State that handles the logic of the player when it is grounded." alt="" coords="5,79,137,104"/>
+<area shape="rect" id="node2" href="$class_player_base_state.html" title="Abstract class defining the basic behaviour of any state part of the PlayerStateMachine." alt="" coords="11,5,131,31"/>
+</map>

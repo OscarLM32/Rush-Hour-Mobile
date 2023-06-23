@@ -1,0 +1,5 @@
+<map id="BeeBehaviour.AttackBehaviour" name="BeeBehaviour.AttackBehaviour">
+<area shape="rect" id="node1" title="Attack behaviour of each shooting enemy." alt="" coords="5,5,204,31"/>
+<area shape="rect" id="node2" href="$class_shooting_enemy.html#a0bc904fab9b5d19a07707cc85797d03b" title="Shoots a projectile of the enemy&#39;s specified type retrieved from the projectile pool." alt="" coords="252,5,404,31"/>
+<area shape="rect" id="node3" href="$class_enemy_projectile_pool.html#a30262bacc545b0635222de747301a0ce" title="Get an instance of one of the projectiles in the pool. If all the objects are in use it creates a new..." alt="" coords="452,5,675,31"/>
+</map>

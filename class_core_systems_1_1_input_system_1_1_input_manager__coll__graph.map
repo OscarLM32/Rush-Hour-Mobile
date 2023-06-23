@@ -1,0 +1,7 @@
+<map id="CoreSystems.InputSystem.InputManager" name="CoreSystems.InputSystem.InputManager">
+<area shape="rect" id="node1" title="Handles the enabling or disabling of the different inputs." alt="" coords="761,102,944,142"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,83,116,108"/>
+<area shape="rect" id="node3" href="$class_core_systems_1_1_input_system_1_1_input_manager.html" title="Handles the enabling or disabling of the different inputs." alt="" coords="477,73,660,113"/>
+<area shape="rect" id="node4" href="$class_core_systems_1_1_input_system_1_1_free_look_input.html" title="Handles the logic behind controlling the free look camera." alt="" coords="165,104,348,144"/>
+<area shape="rect" id="node5" href="$class_core_systems_1_1_input_system_1_1_player_input.html" title="Manages the player input to control the character." alt="" coords="165,168,348,208"/>
+</map>

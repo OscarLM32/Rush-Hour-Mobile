@@ -1,0 +1,4 @@
+<map id="LevelEnd" name="LevelEnd">
+<area shape="rect" id="node1" title="Logic to be executed when the player reaches the end of the level." alt="" coords="23,79,98,104"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,5,116,31"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="LevelEditor.GridSystem.ObjectPlacers.ObjectPlacerFactory.CreatePlacer" name="LevelEditor.GridSystem.ObjectPlacers.ObjectPlacerFactory.CreatePlacer">
+<area shape="rect" id="node1" title=" " alt="" coords="249,30,480,85"/>
+<area shape="rect" id="node2" href="$class_level_editor_1_1_grid_system_1_1_editor_grid_manager.html#a27c49a94a301008767134bd40c1961be" title=" " alt="" coords="5,5,201,45"/>
+<area shape="rect" id="node3" href="$class_level_editor_1_1_grid_system_1_1_editor_grid_manager.html#ae48485346ddb40e30ef5c6058d40de88" title=" " alt="" coords="5,69,201,109"/>
+</map>

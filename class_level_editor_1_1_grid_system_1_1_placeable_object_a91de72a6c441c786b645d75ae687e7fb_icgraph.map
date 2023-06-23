@@ -1,0 +1,8 @@
+<map id="LevelEditor.GridSystem.PlaceableObject.GetStartPosition" name="LevelEditor.GridSystem.PlaceableObject.GetStartPosition">
+<area shape="rect" id="node1" title="Start position (in world coordinates) from which the object is &quot;drawn&quot;." alt="" coords="535,92,753,132"/>
+<area shape="rect" id="node2" href="$class_level_editor_1_1_grid_system_1_1_object_placers_1_1_vehicle_placer.html#aa107e634f995512eabf83a4455d02017" title=" " alt="" coords="253,5,487,45"/>
+<area shape="rect" id="node3" href="$class_level_editor_1_1_grid_system_1_1_object_placers_1_1_vehicle_placer.html#a1a4a615c5195e7d6e392f53a0fc1193c" title=" " alt="" coords="5,35,205,75"/>
+<area shape="rect" id="node4" href="$class_level_editor_1_1_grid_system_1_1_object_placers_1_1_exit_placer.html#af5ae7ee465c6347dcc838e0f0fc72fe1" title=" " alt="" coords="270,120,470,160"/>
+<area shape="rect" id="node5" href="$class_level_editor_1_1_grid_system_1_1_object_placers_1_1_object_placer.html#af3939967965deb333dd9665abeba028d" title="Takes a placed object from the grid." alt="" coords="263,184,477,224"/>
+<area shape="rect" id="node6" href="$class_level_editor_1_1_grid_system_1_1_editor_grid_manager.html#ae48485346ddb40e30ef5c6058d40de88" title=" " alt="" coords="7,184,203,224"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="Database.DatabaseManager" name="Database.DatabaseManager">
+<area shape="rect" id="node1" title="handles the database operations" alt="" coords="15,79,201,104"/>
+<area shape="rect" id="node2" href="$class_core_systems_1_1_singleton.html" title=" " alt="" coords="5,5,211,31"/>
+</map>

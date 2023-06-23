@@ -1,0 +1,5 @@
+<map id="CoreSystems.AudioSystem.AudioTrack" name="CoreSystems.AudioSystem.AudioTrack">
+<area shape="rect" id="node1" title="Relation between an AudioSource and different AudioObjects." alt="" coords="5,196,192,236"/>
+<area shape="rect" id="node2" href="$class_core_systems_1_1_audio_system_1_1_audio_object.html" title="Relation between an audio clip and an AudioType." alt="" coords="5,93,192,133"/>
+<area shape="rect" id="node3" title=" " alt="" coords="48,5,149,31"/>
+</map>

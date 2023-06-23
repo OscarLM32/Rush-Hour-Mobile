@@ -1,0 +1,7 @@
+<map id="SoundPlayer" name="SoundPlayer">
+<area shape="rect" id="node1" title="Handles the logic behind setting up the audio sources and playing the audios tracks of any GameObject..." alt="" coords="34,181,130,207"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,93,116,119"/>
+<area shape="rect" id="node3" href="$class_sound_list.html" title="An ScriptableObject containing a list of sounds from the class Sound." alt="" coords="141,93,221,119"/>
+<area shape="rect" id="node4" title=" " alt="" coords="65,5,184,31"/>
+<area shape="rect" id="node5" href="$class_sound.html" title="Class representing a sound effect or soundtrack to be played." alt="" coords="209,5,267,31"/>
+</map>

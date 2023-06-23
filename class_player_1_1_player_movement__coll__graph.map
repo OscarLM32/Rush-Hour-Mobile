@@ -1,0 +1,4 @@
+<map id="Player.PlayerMovement" name="Player.PlayerMovement">
+<area shape="rect" id="node1" title="Handles the movement of the player." alt="" coords="5,79,164,104"/>
+<area shape="rect" id="node2" title=" " alt="" coords="29,5,140,31"/>
+</map>

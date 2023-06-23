@@ -1,0 +1,5 @@
+<map id="SoundList" name="SoundList">
+<area shape="rect" id="node1" title="An ScriptableObject containing a list of sounds from the class Sound." alt="" coords="81,93,161,119"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,5,124,31"/>
+<area shape="rect" id="node3" href="$class_sound.html" title="Class representing a sound effect or soundtrack to be played." alt="" coords="149,5,207,31"/>
+</map>

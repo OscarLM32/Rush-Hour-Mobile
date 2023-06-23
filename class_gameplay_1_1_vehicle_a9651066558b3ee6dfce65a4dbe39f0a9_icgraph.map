@@ -1,0 +1,4 @@
+<map id="Gameplay.Vehicle.GetFinalPositionMovingTo" name="Gameplay.Vehicle.GetFinalPositionMovingTo">
+<area shape="rect" id="node1" title="Returns the position the vehicle is going to end up in if following the input." alt="" coords="276,5,457,45"/>
+<area shape="rect" id="node2" href="$class_gameplay_1_1_gameplay_grid_manager.html#a3a3daaf204297f14ce1557773f8cc88d" title="Check if a vehicle can be moved and moves it in case it can be done." alt="" coords="5,5,228,45"/>
+</map>

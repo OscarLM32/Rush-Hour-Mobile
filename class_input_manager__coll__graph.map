@@ -1,0 +1,4 @@
+<map id="InputManager" name="InputManager">
+<area shape="rect" id="node1" title="Manages all the different inputs made by the player." alt="" coords="11,79,111,104"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,5,116,31"/>
+</map>

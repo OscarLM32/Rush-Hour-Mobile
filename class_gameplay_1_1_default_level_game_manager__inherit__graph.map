@@ -1,0 +1,4 @@
+<map id="Gameplay.DefaultLevelGameManager" name="Gameplay.DefaultLevelGameManager">
+<area shape="rect" id="node1" title="Manager that handles the game when the user is playing a default level." alt="" coords="8,93,197,133"/>
+<area shape="rect" id="node2" href="$class_core_systems_1_1_singleton_scene.html" title=" " alt="" coords="5,5,200,45"/>
+</map>

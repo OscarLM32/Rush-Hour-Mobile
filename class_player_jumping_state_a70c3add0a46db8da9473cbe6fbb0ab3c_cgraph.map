@@ -1,0 +1,10 @@
+<map id="PlayerJumpingState.UpdateState" name="PlayerJumpingState.UpdateState">
+<area shape="rect" id="node1" title="Update state is called once per frame while the state is active." alt="" coords="5,73,188,113"/>
+<area shape="rect" id="node2" href="$class_player_jumping_state.html#ac63c9f14d09f70477170b271e125b6f1" title="Checks if the states should be switched and in that case it switches them." alt="" coords="236,73,415,113"/>
+<area shape="rect" id="node3" href="$class_player_state_factory.html#ad57941ba84beb6fbd3efb536693b345d" title=" " alt="" coords="472,5,648,31"/>
+<area shape="rect" id="node4" href="$class_player_state_factory.html#a4e2ed2f80ebb1caa1b3171a892d43ae1" title=" " alt="" coords="463,55,657,80"/>
+<area shape="rect" id="node5" href="$class_player_base_state.html#ac1e5506d31ad29b3da4a689dcce08fc9" title="Switches the current state with a new state." alt="" coords="463,104,657,129"/>
+<area shape="rect" id="node8" href="$class_player_state_factory.html#a78358203447f8f8f49028ea9b10a198c" title=" " alt="" coords="469,154,651,194"/>
+<area shape="rect" id="node6" href="$class_player_base_state.html#a24267cf1056b4efecdcd65c1c4588e69" title="Enter state is called once when the state is first accessed." alt="" coords="705,80,892,105"/>
+<area shape="rect" id="node7" href="$class_player_base_state.html#a65a04b56cdc784eabfc784fd9b5cb881" title="Exit state is called once when the state is going to be switched." alt="" coords="709,129,888,155"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="PlayerFallState.CheckSwitchStates" name="PlayerFallState.CheckSwitchStates">
+<area shape="rect" id="node1" title="Checks if the states should be switched and in that case it switches them." alt="" coords="240,5,431,45"/>
+<area shape="rect" id="node2" href="$class_player_fall_state.html#a9079d7b4059d6381bfb1d4e876065c2e" title="Update state is called once per frame while the state is active." alt="" coords="5,13,192,38"/>
+</map>

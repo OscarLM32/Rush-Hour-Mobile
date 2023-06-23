@@ -1,0 +1,8 @@
+<map id="PlayerVerticalDashingState.CheckSwitchStates" name="PlayerVerticalDashingState.CheckSwitchStates">
+<area shape="rect" id="node1" title="Checks if the states should be switched and in that case it switches them." alt="" coords="5,47,191,87"/>
+<area shape="rect" id="node2" href="$class_player_state_factory.html#ad57941ba84beb6fbd3efb536693b345d" title=" " alt="" coords="248,5,424,31"/>
+<area shape="rect" id="node3" href="$class_player_state_factory.html#a4e2ed2f80ebb1caa1b3171a892d43ae1" title=" " alt="" coords="239,55,433,80"/>
+<area shape="rect" id="node4" href="$class_player_base_state.html#ac1e5506d31ad29b3da4a689dcce08fc9" title="Switches the current state with a new state." alt="" coords="239,104,433,129"/>
+<area shape="rect" id="node5" href="$class_player_base_state.html#a24267cf1056b4efecdcd65c1c4588e69" title="Enter state is called once when the state is first accessed." alt="" coords="481,79,668,104"/>
+<area shape="rect" id="node6" href="$class_player_base_state.html#a65a04b56cdc784eabfc784fd9b5cb881" title="Exit state is called once when the state is going to be switched." alt="" coords="485,128,664,153"/>
+</map>

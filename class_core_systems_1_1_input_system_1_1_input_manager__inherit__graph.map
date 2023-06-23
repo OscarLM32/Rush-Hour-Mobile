@@ -1,0 +1,4 @@
+<map id="CoreSystems.InputSystem.InputManager" name="CoreSystems.InputSystem.InputManager">
+<area shape="rect" id="node1" title="Handles the enabling or disabling of the different inputs." alt="" coords="5,79,188,119"/>
+<area shape="rect" id="node2" title=" " alt="" coords="41,5,152,31"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="PlayerFallState.EnterState" name="PlayerFallState.EnterState">
+<area shape="rect" id="node1" title="Enter state is called once when the state is first accessed." alt="" coords="5,31,183,56"/>
+<area shape="rect" id="node2" href="$class_player_fall_state.html#aea7e2a52314802dfff6ca4f1b1423294" title="Handles the animations of the state." alt="" coords="231,5,444,31"/>
+<area shape="rect" id="node3" href="$class_player_fall_state.html#ac4ffb4f092f24ef43fe8691836d8479d" title="Handles the gravity by the specifics of the state." alt="" coords="240,55,435,80"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="CoreSystems.SaveLoadSystem.SaveLoadManager.AddPickedInformation" name="CoreSystems.SaveLoadSystem.SaveLoadManager.AddPickedInformation">
+<area shape="rect" id="node1" title="Add picked information to the temporal data." alt="" coords="220,5,479,45"/>
+<area shape="rect" id="node2" href="$class_items_1_1_information.html#a6c919be73a7da9a73156a43cc12763d2" title="Hides the method PickUp by IPickable and turn it into an abstract method." alt="" coords="5,13,172,38"/>
+</map>

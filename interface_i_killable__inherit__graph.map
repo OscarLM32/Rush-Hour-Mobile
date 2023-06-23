@@ -1,0 +1,8 @@
+<map id="IKillable" name="IKillable">
+<area shape="rect" id="node1" title="Interface to be implemented for each element in the game that can be killed." alt="" coords="291,5,357,31"/>
+<area shape="rect" id="node2" href="$class_bee_behaviour.html" title="Sets the behaviour of the &quot;Bee&quot; enemy." alt="" coords="5,79,107,104"/>
+<area shape="rect" id="node3" href="$class_bunny_behaviour.html" title="Behaviour of the &quot;Bunny&quot; enemy." alt="" coords="131,79,245,104"/>
+<area shape="rect" id="node4" href="$class_plant_behaviour.html" title="Sets the behaviour of the &quot;Plant&quot; enemy." alt="" coords="270,79,378,104"/>
+<area shape="rect" id="node5" href="$class_player_collision_manager.html" title="Handles the behaviour of the character when it is hit by an enemy or collides against an environmenta..." alt="" coords="402,79,561,104"/>
+<area shape="rect" id="node6" href="$class_trunk_behaviour.html" title="Class handling the behaviour of the Trunk enemy." alt="" coords="585,79,695,104"/>
+</map>

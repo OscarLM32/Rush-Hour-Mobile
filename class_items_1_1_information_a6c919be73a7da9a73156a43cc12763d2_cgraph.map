@@ -1,0 +1,5 @@
+<map id="Items.Information.PickUp" name="Items.Information.PickUp">
+<area shape="rect" id="node1" title="Hides the method PickUp by IPickable and turn it into an abstract method." alt="" coords="5,42,172,67"/>
+<area shape="rect" id="node2" href="$class_core_systems_1_1_save_load_system_1_1_save_load_manager.html#a5a9a76330161fa32b4d907127dfabf32" title="Add picked information to the temporal data." alt="" coords="220,5,479,45"/>
+<area shape="rect" id="node3" href="$class_items_1_1_currency.html#a0e5b2750b55f4801c8f7b060806b3dbb" title="The action to be performed whenever the currency is picked up." alt="" coords="253,70,446,95"/>
+</map>

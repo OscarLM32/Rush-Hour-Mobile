@@ -1,0 +1,4 @@
+<map id="MainMenu.LevelSelectionPresenter.LoadLevel" name="MainMenu.LevelSelectionPresenter.LoadLevel">
+<area shape="rect" id="node1" title="Loads the level." alt="" coords="5,5,235,45"/>
+<area shape="rect" id="node2" href="$class_core_systems_1_1_scene_system_1_1_scene_controller.html#a1609e57156eb49fdedf6afc92353d098" title="Sets up the necessary values to laod a level." alt="" coords="283,5,473,45"/>
+</map>

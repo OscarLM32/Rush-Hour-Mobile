@@ -1,0 +1,5 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$class_core_systems_1_1_singleton_scene.html" title=" " alt="" coords="5,35,201,75"/>
+<area shape="rect" id="node2" href="$class_level_editor_1_1_default_level_editor_manager.html" title="Handles the logic of the game when building default levels." alt="" coords="271,5,430,45"/>
+<area shape="rect" id="node3" href="$class_level_editor_1_1_level_editor_manager.html" title="Manages the game when the user is editing a level." alt="" coords="249,70,452,95"/>
+</map>

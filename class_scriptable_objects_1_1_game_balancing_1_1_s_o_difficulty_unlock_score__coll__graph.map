@@ -1,0 +1,4 @@
+<map id="ScriptableObjects.GameBalancing.SODifficultyUnlockScore" name="ScriptableObjects.GameBalancing.SODifficultyUnlockScore">
+<area shape="rect" id="node1" title="The score needed to unlock a difficulty." alt="" coords="5,79,231,119"/>
+<area shape="rect" id="node2" title=" " alt="" coords="59,5,177,31"/>
+</map>

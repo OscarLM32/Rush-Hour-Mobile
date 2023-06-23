@@ -1,0 +1,5 @@
+<map id="LevelEditor.GridSystem.ObjectPlacers.VehiclePlacer.CanBePlaced" name="LevelEditor.GridSystem.ObjectPlacers.VehiclePlacer.CanBePlaced">
+<area shape="rect" id="node1" title=" " alt="" coords="5,37,239,77"/>
+<area shape="rect" id="node2" href="$class_level_editor_1_1_grid_system_1_1_placeable_object.html#a91de72a6c441c786b645d75ae687e7fb" title="Start position (in world coordinates) from which the object is &quot;drawn&quot;." alt="" coords="287,5,505,45"/>
+<area shape="rect" id="node3" href="$class_level_editor_1_1_grid_system_1_1_editor_grid_manager.html#a6831d750d6b2317e5d3fe5e528c16e19" title=" " alt="" coords="298,69,494,109"/>
+</map>

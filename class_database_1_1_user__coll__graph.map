@@ -1,0 +1,5 @@
+<map id="Database.User" name="Database.User">
+<area shape="rect" id="node1" title="Class representation of the database user." alt="" coords="100,93,208,119"/>
+<area shape="rect" id="node2" href="$class_core_systems_1_1_singleton.html" title=" " alt="" coords="5,5,132,31"/>
+<area shape="rect" id="node3" href="$class_database_1_1_user_1_1_user_data.html" title="Representation of the user data." alt="" coords="156,5,323,31"/>
+</map>

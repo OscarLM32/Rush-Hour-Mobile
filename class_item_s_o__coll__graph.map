@@ -1,0 +1,4 @@
+<map id="ItemSO" name="ItemSO">
+<area shape="rect" id="node1" title="Scriptable object that contains the necessary information to represent one item from the game." alt="" coords="31,79,98,104"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,5,124,31"/>
+</map>

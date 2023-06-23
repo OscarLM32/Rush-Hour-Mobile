@@ -1,0 +1,4 @@
+<map id="PlayerVerticalDashingState.HandleGravity" name="PlayerVerticalDashingState.HandleGravity">
+<area shape="rect" id="node1" title="Handles the gravity by the specifics of the state." alt="" coords="239,5,424,45"/>
+<area shape="rect" id="node2" href="$class_player_vertical_dashing_state.html#a6c9670eb9b5f44b7a285bce5df7d308d" title="Enter state is called once when the state is first accessed." alt="" coords="5,5,191,45"/>
+</map>

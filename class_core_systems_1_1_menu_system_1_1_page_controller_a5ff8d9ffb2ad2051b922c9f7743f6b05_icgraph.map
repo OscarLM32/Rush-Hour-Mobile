@@ -1,0 +1,4 @@
+<map id="CoreSystems.MenuSystem.PageController.TurnPageOff" name="CoreSystems.MenuSystem.PageController.TurnPageOff">
+<area shape="rect" id="node1" title="Turns the specified page off and optionally turns another page on." alt="" coords="287,5,503,45"/>
+<area shape="rect" id="node2" href="$class_core_systems_1_1_menu_system_1_1_custom_page_controller_button.html#ac5e0a30710adecf2f4404ee66376df44" title="Handles the petition based on the parameters specified in the inspector." alt="" coords="5,5,239,45"/>
+</map>

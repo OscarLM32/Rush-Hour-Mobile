@@ -1,0 +1,6 @@
+<map id="Items.ClassifiedDocument" name="Items.ClassifiedDocument">
+<area shape="rect" id="node1" title="Specific class defining the behaviour of the type of currency classified documents." alt="" coords="33,152,206,177"/>
+<area shape="rect" id="node2" href="$class_items_1_1_currency.html" title="Defines the behaviour of any type of currency pickable during a level." alt="" coords="82,79,157,104"/>
+<area shape="rect" id="node3" title=" " alt="" coords="5,5,116,31"/>
+<area shape="rect" id="node4" href="$interface_items_1_1_i_pickable.html" title="Class that every pickable object in the level extends from." alt="" coords="141,5,215,31"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="MainMenu.Shop.UpgradePresenter" name="MainMenu.Shop.UpgradePresenter">
+<area shape="rect" id="node1" title="Presenter of the PMV for one upgrade in the shop." alt="" coords="5,79,229,104"/>
+<area shape="rect" id="node2" title=" " alt="" coords="62,5,173,31"/>
+</map>

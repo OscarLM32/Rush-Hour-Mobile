@@ -1,0 +1,6 @@
+<map id="LevelGenerator" name="LevelGenerator">
+<area shape="rect" id="node1" title="Generates a level from a level representation." alt="" coords="84,183,192,208"/>
+<area shape="rect" id="node2" href="$class_core_systems_1_1_singleton_scene.html" title=" " alt="" coords="5,87,228,113"/>
+<area shape="rect" id="node3" href="$class_level_editor_1_1_vehicle_creator_1_1_s_o_vehicle_designs.html" title="A list of sprites for a vehicle." alt="" coords="253,80,431,120"/>
+<area shape="rect" id="node4" title=" " alt="" coords="283,5,401,31"/>
+</map>

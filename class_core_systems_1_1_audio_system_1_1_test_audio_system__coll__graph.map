@@ -1,0 +1,5 @@
+<map id="CoreSystems.AudioSystem.TestAudioSystem" name="CoreSystems.AudioSystem.TestAudioSystem">
+<area shape="rect" id="node1" title="Testing class for AudioController." alt="" coords="5,183,192,223"/>
+<area shape="rect" id="node2" title=" " alt="" coords="38,5,149,31"/>
+<area shape="rect" id="node3" href="$class_core_systems_1_1_audio_system_1_1_audio_controller.html" title="Class that controls the execution of more complex audio jobs: delay, fade..." alt="" coords="115,80,301,120"/>
+</map>

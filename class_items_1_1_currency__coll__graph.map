@@ -1,0 +1,5 @@
+<map id="Items.Currency" name="Items.Currency">
+<area shape="rect" id="node1" title="Defines the behaviour of any type of currency pickable during a level." alt="" coords="64,79,175,104"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,5,116,31"/>
+<area shape="rect" id="node3" href="$interface_items_1_1_i_pickable.html" title="Class that every pickable object in the level extends from." alt="" coords="141,5,215,31"/>
+</map>

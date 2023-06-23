@@ -1,0 +1,6 @@
+<map id="MainMenu.Shop.UpgradePresenter.BuyUpgrade" name="MainMenu.Shop.UpgradePresenter.BuyUpgrade">
+<area shape="rect" id="node1" title="Logic to be executed when the buy button is pressed." alt="" coords="5,37,233,77"/>
+<area shape="rect" id="node2" href="$class_core_systems_1_1_save_load_system_1_1_save_load_manager.html#aed947fc306ecb12a3b692f4ec17f9427" title="Get the information stored in the game data." alt="" coords="284,5,500,45"/>
+<area shape="rect" id="node3" href="$class_core_systems_1_1_save_load_system_1_1_save_load_manager.html#a95a3fc87ca9075849dd8bd348362342a" title="Sets the data after buying an upgrade from the game store." alt="" coords="281,69,503,109"/>
+<area shape="rect" id="node4" href="$class_core_systems_1_1_save_load_system_1_1_save_load_manager.html#a8e356a13aed9dc5153026fe907e2ef94" title="Saves the game data." alt="" coords="551,69,761,109"/>
+</map>

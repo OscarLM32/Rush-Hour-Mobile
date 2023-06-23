@@ -1,0 +1,4 @@
+<map id="Menus.MainMenu.MainMenu.SelectLevelDifficulty" name="Menus.MainMenu.MainMenu.SelectLevelDifficulty">
+<area shape="rect" id="node1" title="selects the level difficulty from the options in the menu" alt="" coords="5,5,199,45"/>
+<area shape="rect" id="node2" href="$class_core_systems_1_1_scene_system_1_1_scene_controller.html#aac9adbbcb7fbe7f2b4d410197d487b2c" title="Sets up the necessary values to load a scene." alt="" coords="247,5,437,45"/>
+</map>

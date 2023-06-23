@@ -1,0 +1,4 @@
+<map id="LevelGenerator" name="LevelGenerator">
+<area shape="rect" id="node1" title="Generates a level from a level representation." alt="" coords="63,79,171,104"/>
+<area shape="rect" id="node2" href="$class_core_systems_1_1_singleton_scene.html" title=" " alt="" coords="5,5,228,31"/>
+</map>
