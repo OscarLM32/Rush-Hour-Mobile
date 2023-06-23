@@ -1,0 +1,84 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: UI Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: UI
+  m_TableCollectionNameGuidString: bb2d5bbc78ed8d4448167a3ba8cc298d
+  m_Entries:
+  - m_Id: 716391542784
+    m_Key: LogIn
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1600513077248
+    m_Key: Password_placeholder
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1850766225408
+    m_Key: SignUp
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2171248799744
+    m_Key: Default_levels
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2378594217984
+    m_Key: USER LEVELS
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2653258215424
+    m_Key: Level_editor
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3095685984256
+    m_Key: Beginner
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3209984962560
+    m_Key: INTERMEDIATE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3527720267776
+    m_Key: Advanced
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3656959356928
+    m_Key: Expert
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4136468967424
+    m_Key: Grand-mastter
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5282126327808
+    m_Key: Small
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5372878483456
+    m_Key: Medium
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5463148294144
+    m_Key: Large
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 7722387470498922520
+  references:
+    version: 2
+    RefIds:
+    - rid: 7722387470498922520
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1687544238248

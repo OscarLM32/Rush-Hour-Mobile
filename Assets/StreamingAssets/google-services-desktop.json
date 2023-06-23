@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "1094087722943",
+    "firebase_url": "https://rush-hour-mobile-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "rush-hour-mobile",
+    "storage_bucket": "rush-hour-mobile.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1094087722943:android:1ff0eb7506fc00e141030a",
+        "android_client_info": {
+          "package_name": "com.Shikuga_Dev.Rush_Hour_Mobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1094087722943-dmr1pbd2lbd26uusn46nk3q3e7rbf7ps.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.Shikuga_Dev.Rush_Hour_Mobile",
+            "certificate_hash": "697440b3511b9d93a7080635e8e8ee75a7771255"
+          }
+        },
+        {
+          "client_id": "1094087722943-l97r4v5fjrdo9jmgji84aksv1b9uc6b2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.Shikuga_Dev.Rush_Hour_Mobile",
+            "certificate_hash": "99c883d923f64745eb12da2e9f957434f242f3d9"
+          }
+        },
+        {
+          "client_id": "1094087722943-nhmi2nrb5i96fub4qcvql5avkt21pakv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWcsFtOnSiu9Cs8gLTiCEcM4ZCb8VwzF0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1094087722943-3dufp0gfv42bbrv85q5venjes9ni3nqe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

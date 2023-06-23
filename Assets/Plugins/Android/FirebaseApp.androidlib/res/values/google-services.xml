@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:keep="@string/firebase_database_url,@string/gcm_defaultSenderId,@string/google_storage_bucket,@string/project_id,@string/google_api_key,@string/google_crash_reporting_api_key,@string/google_app_id,@string/default_android_client_id,@string/default_web_client_id">
+  <string name="firebase_database_url" translatable="false">https://rush-hour-mobile-default-rtdb.europe-west1.firebasedatabase.app</string>
+  <string name="gcm_defaultSenderId" translatable="false">1094087722943</string>
+  <string name="google_storage_bucket" translatable="false">rush-hour-mobile.appspot.com</string>
+  <string name="project_id" translatable="false">rush-hour-mobile</string>
+  <string name="google_api_key" translatable="false">AIzaSyCWcsFtOnSiu9Cs8gLTiCEcM4ZCb8VwzF0</string>
+  <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCWcsFtOnSiu9Cs8gLTiCEcM4ZCb8VwzF0</string>
+  <string name="google_app_id" translatable="false">1:1094087722943:android:1ff0eb7506fc00e141030a</string>
+  <string name="default_android_client_id" translatable="false">1094087722943-dmr1pbd2lbd26uusn46nk3q3e7rbf7ps.apps.googleusercontent.com</string>
+  <string name="default_web_client_id" translatable="false">1094087722943-nhmi2nrb5i96fub4qcvql5avkt21pakv.apps.googleusercontent.com</string>
+</resources>

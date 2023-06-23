@@ -1,0 +1,79 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: UI_es
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: es
+  m_SharedData: {fileID: 11400000, guid: bb2d5bbc78ed8d4448167a3ba8cc298d, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 716391542784
+    m_Localized: "INICIAR SESI\xD3N"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1600513077248
+    m_Localized: "Contrase\xF1a..."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1850766225408
+    m_Localized: CREAR CUENTA
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2171248799744
+    m_Localized: "NIVELES B\xC1SICOS"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2378594217984
+    m_Localized: NIVELES DE USUARIO
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2653258215424
+    m_Localized: EDITOR DE NIVELES
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3095685984256
+    m_Localized: PRINCIPIANTE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3209984962560
+    m_Localized: INTERMEDIO
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3527720267776
+    m_Localized: AVANZADO
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3656959356928
+    m_Localized: Experto
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4136468967424
+    m_Localized: GRAN MAESTRO
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5282126327808
+    m_Localized: "PEQUE\xD1O"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5372878483456
+    m_Localized: MEDIANO
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5463148294144
+    m_Localized: GRANDE
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []
