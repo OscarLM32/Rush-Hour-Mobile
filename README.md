@@ -7,11 +7,23 @@ The well-known board game [**Rush Hour**](https://www.thinkfun.com/products/rush
 |![SmallLevel](./static/SmallLevel.gif)|![MediumLevel](./static/MedLevel.gif)|
 
 ### Complete levels to unlock higher difficulty levels
-![LevelDifficulties](./static/DIfferentSkillLevel.jpg)
+There are 5 different difficulties in the game:
+- Beginner
+- Intermediate
+- Advanced
+- Expert
+- Grand-Master
+
 
 ## Edit and Upload new levels
 | Small Level Edition| Big Level Edition |
 |--------------------|-------------------|
 |![SmallLevelEdition](./static/LevelEditorSmall.gif)|![BigLevelEdition](./static/LevelEditorBig.gif)|
 
-## Log in and registration using Firebase-Auth
+## Other features
+
+### Firebase Auth and Realtime Database
+Players can log in and register in order to save their skill score so they can unlock new levels while they solve them. At the same time they can upload levels that can be played by other players inside the app.
+
+### Localization
+Localization for both English and Spanish.
